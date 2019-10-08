@@ -1,0 +1,14 @@
+{
+  "name": "mytestpack1978",
+  "version": "1.0.0",
+  "description": "es6_less7",
+  "main": "myModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lesson_7"
+  ],
+  "author": "NPM Max",
+  "license": "ISC"
+}
